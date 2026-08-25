@@ -9,14 +9,6 @@ NAME                                      VERSION                               
 @hapi/pinpoint                            2.0.1                                  npm                          
 @hapi/tlds                                1.1.6                                  npm                          
 @hapi/topo                                6.0.2                                  npm                          
-@huggingface/jinja                        0.5.9                                  npm                          
-@huggingface/tokenizers                   0.1.3                                  npm                          
-@huggingface/transformers                 4.2.0                                  npm                          
-@img/colour                               1.1.0                                  npm                          
-@img/sharp-libvips-linux-x64              1.2.4                                  npm                          
-@img/sharp-libvips-linuxmusl-x64          1.2.4                                  npm                          
-@img/sharp-linux-x64                      0.34.5                                 npm                          
-@img/sharp-linuxmusl-x64                  0.34.5                                 npm                          
 @jimp/core                                1.6.1                                  npm                          
 @jimp/diff                                1.6.1                                  npm                          
 @jimp/file-ops                            1.6.1                                  npm                          
@@ -45,24 +37,14 @@ NAME                                      VERSION                               
 @jimp/plugin-threshold                    1.6.1                                  npm                          
 @jimp/types                               1.6.1                                  npm                          
 @jimp/utils                               1.6.1                                  npm                          
-@number0/iroh                             1.0.0                                  npm                          
-@number0/iroh-linux-x64-gnu               1.0.0                                  npm                          
-@number0/iroh-linux-x64-musl              1.0.0                                  npm                          
-@protobufjs/aspromise                     1.1.2                                  npm                          
-@protobufjs/base64                        1.1.2                                  npm                          
-@protobufjs/codegen                       2.0.5                                  npm                          
-@protobufjs/eventemitter                  1.1.1                                  npm                          
-@protobufjs/fetch                         1.1.1                                  npm                          
-@protobufjs/float                         1.0.2                                  npm                          
-@protobufjs/path                          1.1.2                                  npm                          
-@protobufjs/pool                          1.1.0                                  npm                          
-@protobufjs/utf8                          1.1.1                                  npm                          
+@number0/iroh                             1.1.0                                  npm                          
+@number0/iroh-linux-x64-gnu               1.1.0                                  npm                          
+@number0/iroh-linux-x64-musl              1.1.0                                  npm                          
 @so-ric/colorspace                        1.1.6                                  npm                          
 @standard-schema/spec                     1.1.0                                  npm                          
 @tokenizer/inflate                        0.4.1                                  npm                          
 @tokenizer/token                          0.3.0                                  npm                          
 @types/node                               16.9.1                                 npm                          
-@types/node                               26.1.0                                 npm                          
 @types/triple-beam                        1.3.5                                  npm                          
 @videojs/vhs-utils                        4.1.1                                  npm                          
 DirectML Library                          1.15.4+241025-1615.1.dml-1.15.fac7597  binary      (+1 duplicate)   
@@ -123,7 +105,7 @@ acl-libs                                  2.3.2-r1                              
 ada-libs                                  3.3.0-r0                               apk                          
 adler                                     1.0.2                                  rust-crate                   
 adler2                                    2.0.0                                  rust-crate                   
-adm-zip                                   0.5.18                                 npm                          
+adm-zip                                   0.6.0                                  npm                          
 aead                                      0.5.2                                  rust-crate                   
 aead-gcm-stream                           0.4.0                                  rust-crate                   
 aes                                       0.8.3                                  rust-crate                   
@@ -213,11 +195,11 @@ blake2                                    0.10.6                                
 block-buffer                              0.10.4                                 rust-crate                   
 block-padding                             0.3.3                                  rust-crate                   
 bmp-ts                                    1.0.9                                  npm                          
-body-parser                               2.2.2                                  npm                          
+body-parser                               2.3.0                                  npm                          
 boolean                                   3.2.0                                  npm                          
 borrow-or-share                           0.2.4                                  rust-crate                   
 boxed_error                               0.2.3                                  rust-crate                   
-brace-expansion                           5.0.6                                  npm                          
+brace-expansion                           5.0.9                                  npm                          
 brotli                                    1.2.0                                  python                       
 brotli                                    6.0.0                                  rust-crate                   
 brotli-decompressor                       4.0.1                                  rust-crate                   
@@ -252,7 +234,7 @@ cbc                                       0.1.2                                 
 cffi                                      2.0.0                                  python                       
 cfg-if                                    1.0.1                                  rust-crate                   
 cfg-if                                    1.0.3                                  rust-crate                   
-chokidar                                  4.0.3                                  npm                          
+chokidar                                  5.0.0                                  npm                          
 chrono                                    0.4.42                                 rust-crate                   
 cipher                                    0.4.4                                  rust-crate                   
 cjson                                     1.7.19-r1                              apk                          
@@ -283,7 +265,7 @@ console_static_text                       0.8.3                                 
 const-oid                                 0.9.6                                  rust-crate                   
 content-disposition                       1.1.0                                  npm                          
 content-type                              1.0.5                                  npm                          
-content-type                              2.0.0                                  npm                          
+content-type                              2.1.0                                  npm         (+2 duplicates)  
 convert_case                              0.4.0                                  rust-crate                   
 cooked-waker                              5.0.0                                  rust-crate                   
 cookie                                    0.7.2                                  npm                          
@@ -421,7 +403,6 @@ derive-io                                 0.4.1                                 
 derive_builder                            0.20.2                                 rust-crate                   
 derive_more                               0.99.17                                rust-crate                   
 derive_more                               2.0.1                                  rust-crate                   
-detect-libc                               2.1.2                                  npm                          
 detect-node                               2.1.0                                  npm                          
 deunicode                                 1.4.3                                  rust-crate                   
 diff                                      0.1.13                                 rust-crate                   
@@ -518,7 +499,6 @@ filetime                                  0.2.23                                
 finalhandler                              2.1.1                                  npm                          
 findutils                                 4.10.0-r1                              apk                          
 fixedbitset                               0.5.7                                  rust-crate                   
-flatbuffers                               25.9.23                                npm                          
 flate2                                    1.0.35                                 rust-crate                   
 float-cmp                                 0.9.0                                  rust-crate                   
 fluent-uri                                0.4.1                                  rust-crate                   
@@ -576,7 +556,6 @@ gpu-descriptor                            0.3.2                                 
 gpu-descriptor-types                      0.2.0                                  rust-crate                   
 graphite2                                 1.3.14-r6                              apk                          
 group                                     0.13.0                                 rust-crate                   
-guid-typescript                           1.0.9                                  npm                          
 h2                                        0.3.26                                 rust-crate                   
 h2                                        0.4.7                                  rust-crate                   
 half                                      2.7.1                                  rust-crate                   
@@ -681,7 +660,7 @@ ivf                                       0.1.4                                 
 ixdtf                                     0.6.4                                  rust-crate                   
 jeepney                                   0.9.0                                  python                       
 jimp                                      1.6.1                                  npm                          
-joi                                       18.2.3                                 npm                          
+joi                                       18.2.5                                 npm                          
 jpeg-js                                   0.4.4                                  npm                          
 jq                                        1.8.1-r0                               apk                          
 json-c                                    0.18-r1                                apk                          
@@ -809,11 +788,10 @@ log                                       0.4.27                                
 log                                       0.4.28                                 rust-crate                   
 logform                                   2.7.0                                  npm                          
 lol_html                                  2.6.0                                  rust-crate                   
-long                                      5.3.2                                  npm                          
 lru-slab                                  0.1.2                                  rust-crate                   
 ls-types                                  0.0.3                                  rust-crate                   
 m3u8-parser                               7.2.0                                  npm                          
-mStream                                   6.22.0.0                               binary                       
+mStream                                   6.23.0.0                               binary                       
 macro_rules_attribute                     0.2.2                                  rust-crate                   
 malva                                     0.12.1                                 rust-crate                   
 markup_fmt                                0.22.0                                 rust-crate                   
@@ -847,15 +825,15 @@ monch                                     0.5.0                                 
 mpdecimal                                 4.0.1-r0                               apk                          
 mpg123-libs                               1.33.5-r0                              apk                          
 ms                                        2.1.3                                  npm                          
-mstream                                   6.22.0                                 npm                          
+mstream                                   6.23.0                                 npm                          
 mstream-webapp                            6.12.0                                 npm                          
-music-metadata                            11.13.0                                npm                          
+music-metadata                            11.15.0                                npm                          
 musl                                      1.2.6-r2                               apk                          
 musl-obstack                              1.2.3-r2                               apk                          
 musl-utils                                1.2.6-r2                               apk                          
 mutagen                                   1.47.0                                 python                       
 naga                                      28.0.0                                 rust-crate                   
-nanoid                                    5.1.16                                 npm                          
+nanoid                                    6.0.1                                  npm                          
 ncurses-terminfo-base                     6.6_p20260516-r0                       apk                          
 negotiator                                1.0.0                                  npm                          
 netcat-openbsd                            1.234.1-r0                             apk                          
@@ -900,10 +878,8 @@ onig                                      6.5.1                                 
 onig_sys                                  69.9.1                                 rust-crate                   
 oniguruma                                 6.9.10-r0                              apk                          
 onnxruntime                               1.24.4-r1                              apk                          
-onnxruntime-common                        1.24.0-dev.20251116-b39e144322         npm                          
 onnxruntime-common                        1.24.3                                 npm                          
 onnxruntime-node                          1.24.3                                 npm                          
-onnxruntime-web                           1.26.0-dev.20260416-b7804b056c         npm                          
 opaque-debug                              0.3.1                                  rust-crate                   
 open                                      5.1.2                                  rust-crate                   
 openssl                                   0.10.72                                rust-crate                   
@@ -960,7 +936,6 @@ pixelmatch                                5.3.0                                 
 pkcs1                                     0.7.5                                  rust-crate                   
 pkcs5                                     0.7.1                                  rust-crate                   
 pkcs8                                     0.10.2                                 rust-crate                   
-platform                                  1.3.6                                  npm                          
 plist                                     1.7.4                                  rust-crate                   
 png                                       0.17.13                                rust-crate                   
 pngjs                                     6.0.0                                  npm                          
@@ -985,7 +960,6 @@ profiling                                 1.0.15                                
 profiling                                 1.0.16                                 rust-crate                   
 prost                                     0.13.3                                 rust-crate                   
 protobuf                                  31.1-r1                                apk                          
-protobufjs                                7.6.4                                  npm                          
 protoc                                    31.1-r1                                apk                          
 proxy-addr                                2.0.7                                  npm                          
 psm                                       0.1.20                                 rust-crate                   
@@ -1054,7 +1028,7 @@ readable-stream                           2.3.8                                 
 readable-stream                           3.6.2                                  npm         (+1 duplicate)   
 readable-stream                           4.7.0                                  npm                          
 readdir-glob                              3.0.0                                  npm                          
-readdirp                                  4.1.2                                  npm                          
+readdirp                                  5.1.1                                  npm                          
 readline                                  8.3.3-r1                               apk                          
 ref-cast                                  1.0.22                                 rust-crate                   
 regalloc2                                 0.11.1                                 rust-crate                   
@@ -1076,7 +1050,6 @@ rsa                                       0.9.10                                
 runtimelib                                1.3.0                                  rust-crate                   
 rusqlite                                  0.37.0                                 rust-crate                   
 rust-parser-win32-x64                     UNKNOWN                                binary                       
-rust-server-audio-win32-x64               UNKNOWN                                binary                       
 rustc-hash                                1.1.0                                  rust-crate                   
 rustc-hash                                2.1.1                                  rust-crate                   
 rusticata-macros                          4.1.0                                  rust-crate                   
@@ -1136,7 +1109,6 @@ sha2                                      0.10.8                                
 sha3                                      0.10.8                                 rust-crate                   
 shaderc                                   2026.1-r0                              apk                          
 shadow                                    4.18.0-r1                              apk                          
-sharp                                     0.34.5                                 npm                          
 shell-escape                              0.1.5                                  rust-crate                   
 shell-words                               1.1.0                                  rust-crate                   
 shellexpand                               3.1.0                                  rust-crate                   
@@ -1179,7 +1151,7 @@ spki                                      0.7.3                                 
 sprintf-js                                1.1.3                                  npm                          
 sptr                                      0.3.2                                  rust-crate                   
 sqlformat                                 0.3.5                                  rust-crate                   
-sqlite-libs                               3.53.2-r0                              apk                          
+sqlite-libs                               3.53.4-r0                              apk                          
 sratom                                    0.6.20-r0                              apk                          
 ssl_client                                1.37.0-r31                             apk                          
 stable_deref_trait                        1.2.0                                  rust-crate  (+1 duplicate)   
@@ -1281,14 +1253,13 @@ try-lock                                  0.2.5                                 
 twox-hash                                 1.6.3                                  rust-crate                   
 twox-hash                                 2.1.0                                  rust-crate                   
 type-fest                                 0.13.1                                 npm                          
-type-is                                   2.0.1                                  npm                          
+type-is                                   2.1.0                                  npm                          
 typed-arena                               2.0.2                                  rust-crate                   
 typeid                                    1.0.3                                  rust-crate                   
 typenum                                   1.17.0                                 rust-crate                   
 tzdata                                    2026c-r0                               apk                          
 ucd-trie                                  0.1.6                                  rust-crate                   
 uint8array-extras                         1.5.0                                  npm                          
-undici-types                              8.3.0                                  npm                          
 unicase                                   2.7.0                                  rust-crate                   
 unicode-id-start                          1.2.0                                  rust-crate                   
 unicode-ident                             1.0.12                                 rust-crate                   
@@ -1352,7 +1323,7 @@ wrappy                                    1.0.2                                 
 write16                                   1.0.0                                  rust-crate                   
 writeable                                 0.5.5                                  rust-crate                   
 writeable                                 0.6.2                                  rust-crate                   
-ws                                        8.21.0                                 npm                          
+ws                                        8.21.3                                 npm                          
 wtf8                                      0.1.0                                  rust-crate                   
 wyz                                       0.5.1                                  rust-crate  (+1 duplicate)   
 x25519-dalek                              2.0.1                                  rust-crate                   
@@ -1374,10 +1345,10 @@ yoke                                      0.7.4                                 
 yoke                                      0.8.0                                  rust-crate                   
 yoke-derive                               0.7.4                                  rust-crate                   
 yoke-derive                               0.8.0                                  rust-crate                   
-yt-dlp                                    2026.07.04-r0                          apk                          
-yt-dlp                                    2026.7.4                               python                       
-yt-dlp-core                               2026.07.04-r0                          apk                          
-yt-dlp-core-pyc                           2026.07.04-r0                          apk                          
+yt-dlp                                    2026.08.19-r0                          apk                          
+yt-dlp                                    2026.8.19                              python                       
+yt-dlp-core                               2026.08.19-r0                          apk                          
+yt-dlp-core-pyc                           2026.08.19-r0                          apk                          
 yt-dlp-ejs                                0.8.0                                  python                       
 yt-dlp-ejs                                0.8.0-r1                               apk                          
 yt-dlp-ejs-pyc                            0.8.0-r1                               apk                          
